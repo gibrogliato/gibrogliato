@@ -1,11 +1,4 @@
-<h1 align="center">Hi 👋, I'm Giovanna</h1>
-<h3 align="center">I'm a brazilian student learning about codes and looking for opportunities.</h3>
-
-- 🔭 I’m currently working with **Arduino**
-
-- 🌱 I’m currently learning **C and C+**
-
-- ⚡ Fun fact **I love science**
+<h1 align="center">Hi 👋, I'm Giovanna </h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> <a href="https://twitter.com/catintheboxz" target="blank"><img src="https://img.shields.io/twitter/follow/catintheboxz?logo=twitter&style=for-the-badge" alt="catintheboxz" /></a> </p>
